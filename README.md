@@ -62,6 +62,10 @@ We will go ahead and explore some of the challenges being faced due to lack of a
 ## Data Understanding 
 
 
+The dataset for this project was generated from Driven Data. You can access it here [here](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/)
+
+The dataset contained 59, 400 rows and 40 columns. Out of these columns 31 were found to be categorical and 9 to be numeric
+
 
 
 
