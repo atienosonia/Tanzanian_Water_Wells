@@ -53,11 +53,10 @@ We will go ahead and explore some of the challenges being faced due to lack of a
 ### Evaluation Metrics
 
 
-1. Generate a model with a True Positive Rate of 70% +
+1. Generate a model with a True Positive Rate of 70%+
 
 
-2. Build a model that is able to predict the functionality  of water pumps with 70%+ accuracy
-
+2. Root Mean Squared Error of close to 0 to evaluate model efficiency.
 
 ## Data Understanding 
 
