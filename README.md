@@ -78,5 +78,22 @@ Since our target variable had three categories we decided to to use classificati
 
 ## Evaluation
 
+We had set a recall of 70%+ for our model’s functionality once we deploy it to the public and a Root Mean Squared Error of close to 0 to test our model’s efficiency before the deployment, both of these metrics were met.
+
+
+## Reccomendations and Conclusion
+
+1. The UN-Habitat should partner with the government to ensure efficient pulling of funds such as to raise enough capital to push the initiative.
+
+2. When the UN Habitat kicks the initiative they should look to contract DWE to do the water pump installations.
+
+3. Features such as amount_tsh (water pump pressure ) and quantity of water are key indicators of water pump functionality, The organization should use these features to decide on whether a water pump is functional.
+
+4. Lake Victoria has the most non functional wells yet its one of the largest water bodies in the region. The UN Habitat should perform an excursion on the region and check to see the resason why so and formulate a plan to solve that.
+
+Its worth noting that most of the population does not stay around the wells, close to 2/3 of the population has access to water supply furthermore the country's urbanization rate has been increasing at a rate of 0.7 % per year , this brings up the assumption that maybe most people have adopted piped water as opposed to fetching water from wells . If the UN Habitat would also look into access to water supply in urban areas for their initiave in addition to fixing the water pumps then they would be making tremendous contribution towards their 2030 Agenda to  achieve their Sustainable Development Goals 
+
+The model did well with continous training but with more and updated data I believe it can make better predictions and improve the performance of our model. This will also solve the imbalance we seem to have had on our dataset.
+
 
 
