@@ -78,7 +78,7 @@ Since our target variable had three categories we decided to to use classificati
 
 ## Evaluation
 
-We had set a recall of 70%+ for our model’s functionality once we deploy it to the public and a Root Mean Squared Error of close to 0 to test our model’s efficiency before the deployment, both of these metrics were met.
+We had set a recall of 70%+ for our model’s functionality once we deploy it to the public and a Root Mean Squared Error of close to 0 to test our model’s efficiency before the deployment, both of these metrics were met. The most important features are amount_tsh(water pump pressure) and qunatiy 
 
 
 ## Reccomendations and Conclusion
