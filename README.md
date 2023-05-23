@@ -64,7 +64,15 @@ We will go ahead and explore some of the challenges being faced due to lack of a
 
 The dataset for this project was generated from Driven Data. You can access it here [here](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/)
 
-The dataset contained 59, 400 rows and 40 columns. Out of these columns 31 were found to be categorical and 9 to be numeric
+The dataset contained 59,400 rows and 40 columns. Out of these columns 31 were found to be categorical and 9 to be numeric.We were able to narrow down the dataset to 52,560 observations and 19 columns after analysis. We only used 7 columns for our modelling. 
+
+
+## Data Preparation
+
+Data Preparation was done in two steps, we first started with cleaning our dataset then we cleaned the individual columns. We dropped the duplicated values . Visualized for outliers, there were outliers we simply could not decide to treat by just taking a look at the box plot so we decided to investigate them further through added visualizations and so no outliers were dropped at this stage .
+We got the percentage of missing data in our dataset, dropped columns that contained high percentages but were not useful to use during modelling,  dropped rows of  columns with missing values but were needed during modelling. While looking into our columns we realized that some share in the same information and so we chose only one column that seem fit for our moddeling 
+
+## Modelling 
 
 
 
