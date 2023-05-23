@@ -73,6 +73,10 @@ We got the percentage of missing data in our dataset, dropped columns that conta
 
 ## Modelling 
 
+Since our target variable had three categories we decided to to use classification algorithm to make predictions, we fitted two non parametric models : K-Nearest Neighbors and two ensemble models : Random Forest and Gradient Boosting. An increase in the True Positive Rate (Recall) percentage was observed as we continued fitting our model to get the desired metrics. We used Grid Search for the last model ; Gradient Boosting to check through the best parameters for our model. We also incorporated pipelines for readability and data leakage prevention.	
+
+
+## Evaluation
 
 
 
